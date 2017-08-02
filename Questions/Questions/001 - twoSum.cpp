@@ -8,13 +8,13 @@ using namespace std;
 Please refer to Leetcode's "Two Sum" for the problem statement.
 
 Solution:
-	The basic principle is to create a hashMap of ints to ints with a number as a key and its index in the given vector as the value.
+    The basic principle is to create a hashMap of ints to ints with a number as a key and its index in the given vector as the value.
 
-	We begin with such a data structure without any items inside.
-	Iterate through the provided vector
-		-If the number in the considered spot has its counterpart that sums to the target in the hashmap, return that stored index and the current index as the solution.
-		-Otherwise, add the current <number, index> pair to the hashmap and continue iterating.
-	Proceed until completed.
+    We begin with such a data structure without any items inside.
+    Iterate through the provided vector
+        -If the number in the considered spot has its counterpart that sums to the target in the hashmap, return that stored index and the current index as the solution.
+        -Otherwise, add the current <number, index> pair to the hashmap and continue iterating.
+    Proceed until completed.
 */
 vector<int> Solution001::twoSum(vector<int>& nums, int target)
 {
