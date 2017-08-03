@@ -5,6 +5,7 @@
 
 class Solution292
 {
-    public bool canWinNim(int n);
+public:
+    bool canWinNim(int n);
 };
 #endif
