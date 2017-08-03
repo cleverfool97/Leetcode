@@ -6,7 +6,7 @@
 class Solution412
 {
 public:
-    vector<string> fizzBuzz(int n);
+    std::vector<std::string> fizzBuzz(int n);
 };
 
 #endif

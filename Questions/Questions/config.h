@@ -9,7 +9,9 @@
 #include <unordered_map>
 
 #include <string>
+#include <cstddef>
 
-
+#include <cmath>
+#include <algorithm>
 
 #endif
