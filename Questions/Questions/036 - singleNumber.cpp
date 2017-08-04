@@ -22,7 +22,7 @@ Tests:
     -Any array with a random singleton in a random spot and a bunch of random number pairings
 */
 
-int singleNumber(vector<int>& nums)
+int Solution036::singleNumber(vector<int>& nums)
 {
     int result = 0;
     for (int i = 0; i < nums.size(); i++)
