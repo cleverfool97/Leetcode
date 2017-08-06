@@ -16,6 +16,4 @@
 #include <cmath>
 #include <algorithm>
 
-
-
 #endif
