@@ -48,6 +48,12 @@
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\101 - symmetricTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\100 - sameTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\019 - removeNthNodeFromEndOfList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="001 - twoSum.h">
@@ -81,6 +87,12 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\101 - symmetricTree.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\100 - sameTree.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\019 - removeNthNodeFromEndOfList.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
