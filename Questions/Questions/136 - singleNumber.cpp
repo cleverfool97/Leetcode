@@ -1,10 +1,10 @@
-#include "036 - singleNumber.h"
+#include "136 - singleNumber.h"
 #include "config.h"
 
 using namespace std;
 
 /*
-Please refer to "36. Single Number" for the problem statement.
+Please refer to "136. Single Number" for the problem statement.
 
 Solution:
     There are many ways to solve this problem, which may be added later on as alternate solutions.
@@ -22,7 +22,7 @@ Tests:
     -Any array with a random singleton in a random spot and a bunch of random number pairings
 */
 
-int Solution036::singleNumber(vector<int>& nums)
+int Solution136::singleNumber(vector<int>& nums)
 {
     int result = 0;
     for (int i = 0; i < nums.size(); i++)

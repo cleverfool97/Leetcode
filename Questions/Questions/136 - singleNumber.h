@@ -1,9 +1,9 @@
-#ifndef LEET036_H
-#define LEET036_H
+#ifndef LEET136_H
+#define LEET136_H
 
 #include "config.h"
 
-class Solution036
+class Solution136
 {
 public:
     int singleNumber(std::vector<int>& nums);
