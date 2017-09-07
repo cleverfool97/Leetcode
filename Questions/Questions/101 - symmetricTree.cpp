@@ -2,6 +2,7 @@
 #include "config.h"
 
 /*
+Difficulty: Easy
 Please refer to "101. Symmetric Tree" for the problem statement.
 
 Solution: 

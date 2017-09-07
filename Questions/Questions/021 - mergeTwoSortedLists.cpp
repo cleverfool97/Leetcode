@@ -2,6 +2,7 @@
 #include "config.h"
 
 /*
+Difficulty: Easy
 Please refer to "21. Merge Two Sorted Lists" for the problem statement.
 
 Solution:

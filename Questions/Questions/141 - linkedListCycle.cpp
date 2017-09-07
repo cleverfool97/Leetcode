@@ -2,6 +2,7 @@
 #include "config.h"
 
 /*
+Difficulty: Easy
 Please refer to "141. Linked List Cycle" for the problem statement.
 
 Solution:

@@ -1,6 +1,7 @@
 #include "142 - linkedListCycleII.h"
 
 /*
+Difficulty: Medium
 Please refer to "142. LinkedListCycle II" for the problem statement.
 
 Solution:

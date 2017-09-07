@@ -2,6 +2,7 @@
 #include "config.h"
 
 /*
+Difficulty: Medium
 Please refer to "19. Remove Nth Node From End of List" for the problem statement
 
 Solution:

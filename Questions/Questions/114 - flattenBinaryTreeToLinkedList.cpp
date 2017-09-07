@@ -2,6 +2,7 @@
 #include "config.h"
 
 /*
+Difficulty: Medium
 Please refer to "114. Flatten Binary Tree to Linked List" for the problem statement.
 
 Solution:

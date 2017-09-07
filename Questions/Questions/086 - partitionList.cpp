@@ -2,6 +2,7 @@
 #include "config.h"
 
 /*
+Difficulty: Medium
 Please refer to "86. Partition List" for the problem statement.
 
 Solution:

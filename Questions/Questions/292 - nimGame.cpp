@@ -2,6 +2,7 @@
 #include "config.h"
 
 /*
+Difficulty: Easy
 Please refer to "292. Nim Game" for the problem statement.
 
 Solution:

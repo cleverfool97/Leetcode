@@ -4,6 +4,7 @@
 using namespace std;
 
 /*
+Difficulty: Medium
 Refer to "54. Spiral Matrix" for the problem statement.
 
 Solution:

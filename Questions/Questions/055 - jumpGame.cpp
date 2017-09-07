@@ -4,6 +4,7 @@
 using namespace std;
 
 /*
+Difficulty: Medium
 Please refer to "55. Jump Game" for the problem statement.
 
 Solution:

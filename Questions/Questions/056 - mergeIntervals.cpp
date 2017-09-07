@@ -4,6 +4,7 @@
 using namespace std;
 
 /*
+Difficulty: Medium
 Please refer to "56. Merge Intervals" for the problem statement.
 
 Solution:

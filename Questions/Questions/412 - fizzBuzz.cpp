@@ -4,6 +4,7 @@
 using namespace std;
 
 /*
+Difficulty: Easy
 Please refer to "412. Fizz Buzz" for the problem statement
 
 Solution: 

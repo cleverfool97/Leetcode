@@ -4,6 +4,7 @@
 using namespace std;
 
 /*
+Difficulty: Easy
 Please refer to "111 - Minimum Depth of Binary Tree" for the problem statement.
 
 Solution:

@@ -4,7 +4,8 @@
 using namespace std;
 
 /*
-Please refer to "4. Longest Substring Without Repeating Characters" for the problem statement.
+Difficulty: Medium
+Please refer to "3. Longest Substring Without Repeating Characters" for the problem statement.
 
 Solution:
     You can obviously brute force it by calculating everything, but this will take too much time.

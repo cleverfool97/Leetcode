@@ -3,8 +3,8 @@
 
 using namespace std;
 
-
 /*
+Difficulty: Easy
 Please refer to Leetcode's "Two Sum" for the problem statement.
 
 Solution:

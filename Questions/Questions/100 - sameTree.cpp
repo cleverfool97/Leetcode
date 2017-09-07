@@ -2,6 +2,7 @@
 #include "config.h"
 
 /*
+Difficulty: Easy
 Please refer to "100. Same Tree" for the problem statement.
 
 Solution:

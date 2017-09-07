@@ -4,6 +4,7 @@
 using namespace std;
 
 /*
+Difficulty: Easy
 Please refer to "136. Single Number" for the problem statement.
 
 Solution:

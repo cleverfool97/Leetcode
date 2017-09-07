@@ -2,6 +2,7 @@
 #include "config.h"
 
 /*
+Difficulty: Easy
 Please refer to "20. Valid Parentheses" for the problem statement.
 
 Solution:

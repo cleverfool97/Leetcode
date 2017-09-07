@@ -2,6 +2,7 @@
 #include "config.h"
 
 /*
+Difficulty: Medium
 Please refer to Leetcode's "2. Add Two Numbers" for the problem statement.
 
 Solution:

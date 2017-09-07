@@ -2,6 +2,7 @@
 #include "config.h"
 
 /*
+Difficulty: Easy
 Please refer to "112. Path Sum" for the problem statement.
 
 Solution:

@@ -4,6 +4,7 @@
 using namespace std;
 
 /*
+Difficulty: Easy
 Please refer to "293. Flip Game" for the problem statement. Note that this problem is available for premium Leetcode users only.
 
 Solution:
