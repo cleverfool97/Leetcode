@@ -16,7 +16,7 @@ Solution:
     Space Complexity: O(1), solution performed iteratively and not recursively with no additional data structures
 */
 
-int search(vector<int>& nums, int target)
+int Solution033::search(vector<int>& nums, int target)
 {
     int low = 0;
     int high = nums.size() - 1;
