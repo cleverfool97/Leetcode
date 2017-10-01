@@ -10,7 +10,8 @@ Solution:
     We also have a fast "hare" pointer that jumps two at a time.
     After they both jump away from the start, if there is a cycle the hare will catch the tortoise.
     Otherwise the hare will eventually reach the end and there will be no cycle.
-Be aware:
+
+Be Aware:
     -Watch out for null pointer access, especially with the hare.
     -Don't accidentally check to see if they're the same spot at the start and have that be the cycle.
 Test Cases:

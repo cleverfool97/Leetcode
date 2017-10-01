@@ -16,7 +16,10 @@ Solution:
             Reattach the saved right to the rightmost portion.
         Move temp to its right
 
-Be aware:
+    Let N be the number of nodes in the tree.
+    Time Complexity: N/A (TODO)
+    Space Complexity: O(1), iterative solution with only a few pointers initialized
+Be Aware:
     -Notice that in the problem the final form corresponds to a preorder traversal. So in essence this iterative solution is a preorder traversal + manipulations.
     -Every time a node has a left, we want that node to end up as the immediate right. This propagates recursively (so a recursive solution is quite easy here)
     -However, by our implementation the next node we consider by moving right is identically the one that we just considered in our preorder traversal, which is why it works.
@@ -39,7 +42,7 @@ void Solution114::flatten(TreeNode* root)
     TreeNode *temp = root;
     while (temp != nullptr)
     {
-        while (temp->left != nullptr)
+        if (temp->left != nullptr)
         {
             TreeNode *rightHolder = temp->right;
             temp->right = temp->left;

@@ -34,6 +34,9 @@ Solution:
         -Bullet 2 -> dr_B(9) = 1 + (8) % 9 = 10 - 1 = 9
         -Bullet 3 -> dr_B(7) = 1 + (6) % 9 = 7 % 9 = 7
 
+    Time Complexity: O(1)
+    Space Complexity: O(1)
+
 Be Aware:
     -Recall that decimal is base 10, so we are using 10 for the value of b in the digital root formula
     -Try comparing average runtimes for both solutions. Is the difference significant?

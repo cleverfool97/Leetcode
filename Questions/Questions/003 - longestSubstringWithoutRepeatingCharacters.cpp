@@ -16,10 +16,14 @@ Solution:
     Sample Recurrence:
         OPT(n) -> max(OPT(n - 1), n - indexWithLatestRepeatedCharacter))
 
+    Let N be the length of the input string
+    Time Complexity: O(N), assuming constant time library functions, otherwise O(N^2) (find_last_of will take at most O(N) time)
+    Space Complexity: O(N), vector to keep track of longest substring up to that point.
+
 Be Aware:
-    -This solution is actually imperfect. The initialization is not quite clean and the library function find_last_of technically can run in O(N), though it generally will be close to constant.
-    -As of 8/2/2017, this solution beats 78% of .cpp submissions on LeetCode.
-    -Dynamic programming solutions take extra space, but save in time.
+    -This solution has room for improvement! The initialization is not quite clean and the library function find_last_of technically can run in O(N), though it generally will be close to constant.
+    -However, as of 8/2/2017, this solution beats 78% of .cpp submissions on LeetCode, supporting the hypothesis that find_last_of has good average runtime.
+    -Dynamic programming solutions generally take extra space, but save in time.
     -The latest repeated character is not necessarily going to be the Nth character you are considering. ex: ABBA.
 
 Test Cases:
@@ -35,8 +39,7 @@ int lengthOfLongestSubstring(string s)
 {
     if (s.size() == 1) return 1;
         
-    vector<int> optimals;
-    //vector<int> optimals(s.length() + 1, 0);
+    vector<int> optimals(s.length() + 1, 0);
     int potential, repeatIndex = 0;
     for(int i = 1; i < s.length(); i++)
     {

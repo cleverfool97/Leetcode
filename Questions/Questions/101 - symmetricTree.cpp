@@ -12,9 +12,15 @@ Solution:
     Otherwise we check the values of competing nodes and then pass the algorithm down, until we reach a pair of nullpointers.
     This is a classic recursive solution.
 
-Be aware:
+    Let N be the total number of nodes in the tree.
+    Time Complexity: O(N), each node must be visited to prove symmetry
+    Space Complexity: O(1), unless considering recursive call stack, in which case O(N).
+
+Be Aware:
     -Make sure you nail down your base cases!
     -When dealing with these problems, if the original function signature doesn't seem to be enough, write a helper!
+    -Space complexity calculations can be tricky with recursive calls because of the way functions work on the call stack. Look up tail recursion to see ways to address this!
+    -Can this function be optimized to be tail recursive?
 
 Tests:
     -Empty tree

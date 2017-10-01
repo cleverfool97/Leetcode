@@ -8,8 +8,12 @@ Please refer to "86. Partition List" for the problem statement.
 Solution:
     Simply have two linked lists, one representing the early half and one representing the later half, and iterate once through the linked list and assign each node in order.
     Then, it's simply a matter of attaching one half to another to get the solution.
-    Runtime: O(N)
-Be aware: 
+    
+    Let N be the number of nodes in the linked list
+    Time Complexity: O(N)
+    Space Complexity: O(1)
+
+Be Aware: 
     -Note the use of sentinel nodes to make pointer management and special case considerations a little easier than before.
 */
 

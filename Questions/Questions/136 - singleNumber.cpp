@@ -11,7 +11,10 @@ Solution:
     There are many ways to solve this problem, which may be added later on as alternate solutions.
     This particular solution leverages the fact that taking two of the same number and performing an XOR operation results in a 0.
     Given the input that we have, all you need to do is loop through once and XOR everything, then return that, since the singleton won't have something to cancel it.
-    This algorithm thus performs in O(N)
+
+    Let N be the size of the input array.
+    Time Complexity: O(N)
+    Space Complexity: O(1)
 
 Be Aware:
     -What are some other, more conventional ways to solve the problem?

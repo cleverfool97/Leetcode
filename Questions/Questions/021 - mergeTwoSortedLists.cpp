@@ -8,6 +8,10 @@ Please refer to "21. Merge Two Sorted Lists" for the problem statement.
 Solution:
     Fairly straightforward. So long as there exists a node in either list to merge, select the appropriate node and assign it to a ListNode pointer's next.
 
+    Let N be the total number of nodes, that is the sum of the lengths of l1 and l2
+    Time Complexity: O(N), each node is visited once when merging
+    Space Complexity: O(1), just one sentinel node per function call, and a pointer
+
 Be Aware:
     -Uses the sentinel node strategy to eliminate need for some edge cases.
     -Assumes sorting in increasing order.

@@ -12,7 +12,9 @@ Solution:
     Then, beginning at the first interval, we keep merging start times that fall within the end bounds, and updating the end bounds if it increases.
     Whenver we encounter an interval that is outside of the end bounds, we set a new start and end bound for another interval that will be in our result.
 
-    Total time complexity: O(NlogN)
+    Let N be number of intervals in the input array
+    Time Complexity: O(NlogN), for sorting the array
+    Space Complexity: O(N), for the result
 
 Be Aware:
     -Functions that are intended to be used by std::sort must be declared as static in c++

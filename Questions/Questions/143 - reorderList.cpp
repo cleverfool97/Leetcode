@@ -6,7 +6,9 @@ Please refer to "143. Reorder List" for the problem statement.
 
 Solution:
     Iterate halfway through the list, reverse the second half, and then perform an alternating merge.
+
     Time Complexity: O(N)
+    Space Complexity: O(1)
 
 Be Aware:
     -Watch out for special cases.

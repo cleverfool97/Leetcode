@@ -10,7 +10,8 @@ Please refer to "344. Reverse String" for the problem statement.
 Solution:
     The first character will become the last, second the second to last, so on and so forth.
     Iterate forwards and backwards and swap appropriately, until the iterators meet halfway.
-    Time complexity: O(N)
+    Time Complexity: O(N)
+    Space Complexity: O(1)
 Be Aware:
     -There are many good ways to solve this problem.
     -Some companies like to use this question as a worksheet question at career fairs, because there are so many answers and it is relatively quick and easy.

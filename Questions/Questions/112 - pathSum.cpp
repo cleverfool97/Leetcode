@@ -9,6 +9,10 @@ Solution:
     While we traverse the tree, we keep track of a running total in each direction that we go in.
     Whenever we reach a root node we see if the running total matches the sum.
 
+    Let N be the number of nodes in the tree.
+    Time Complexity: O(N), the final leaf that we consider might contain the path that represents the sum, even though all the others have failed.
+    Space Complexity: O(N), consider the call stack
+
 Be Aware:
     -Watch out for your base cases.
     -This is another good example of how using a helper recursive function can make it a lot easier to solve.

@@ -14,6 +14,10 @@ Solution:
         -If we encounter a day with a price lower than our current lowest price, update our lowest price; any sale in the future would be better with a buy on this day than at what was tracked before.
         -If we encounter a day with a price higher than our current lowest price, it is a potential sell day. Compare the price difference to the current max profit, and update if necessary.
 
+    Let N be the size of the input array.
+    Time Complexity: O(N)
+    Space Complexity: O(1)
+
 Be Aware:
     -There are tons of variations of this problem, ranging across all difficulties.
     -Don't forget that there exists a scenario where it's better to never buy!

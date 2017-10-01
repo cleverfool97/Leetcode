@@ -16,6 +16,11 @@ Solution:
         -Medium, Large, Small: Max profit captured in Medium->Large
         -Large, Small, Medium: Max profit captured in Small->Medium
         -Large, Medium, Small: No profit can be gained
+    
+    Let N be the size of the input array.
+    Time Complexity: O(N)
+    Space Complexity: O(1)
+
 Be Aware:
     -This question is nontrivial, and is indeed a test of clarity as well. Depending on the wording of the problem it can be interpreted as a different problem entirely.
     -Refer to the Discussion page for this problem; previously the wording made it appear there were additional restrictions.

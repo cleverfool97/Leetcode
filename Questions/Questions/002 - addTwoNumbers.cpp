@@ -8,6 +8,10 @@ Please refer to Leetcode's "2. Add Two Numbers" for the problem statement.
 Solution:
     It is just a matter of keeping track of where you are at each linked list and performing additions on the digits, propagating a carry along (in case the sum of the digits exceeds 10).
     
+    Let M be length of first linked list, N be the length of second linked list.
+    Time Complexity: O(max(M, N)), while loop continues so long as one list hasn't been completely iterated through yet.
+    Space Complexity: O(1), only 1 sentinel node is created per function call.
+    
 Be Aware:
     -Make sure to account for the case of different length linked list inputs.
     -Remember to push back a ListNode that holds the carry at the end if it exists.

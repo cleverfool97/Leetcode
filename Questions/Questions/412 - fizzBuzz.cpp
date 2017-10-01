@@ -10,6 +10,9 @@ Please refer to "412. Fizz Buzz" for the problem statement
 Solution: 
     This is a very basic algorithm. Just loop through from 1 up until n and examine the number, adding the appropriate string to your result as you go.
 
+    Time Complexity: O(n)
+    Space Complexity: O(n), just for storing the result
+
 Be Aware:
     -This is a good example of simplicity vs performance. This code is not necessarily the most efficient code in terms of runtime. However, it is very easy to read.
 

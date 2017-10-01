@@ -12,11 +12,18 @@ Solution:
     If not, then we call the helper.
     The helper checks to see if we are at a leaf. If so, return 1.
     Otherwise, depending on what children we have we perform a 1 + minDepthHelper call on each child.
+    
+    Let N be the number of nodes in the tree
+    Time Complexity: O(N), consider a tree with 1 leaf, and every other node has one child. Every node will be visited to find this leaf.
+    Space Complexity: O(1), unless considering recursive call stack, in which case O(N).
+
 Be Aware:
     -Be careful, remember that a node with any child is NOT a leaf node. How might this affect the way you write your base cases?
     -Can this be done more concisely?
     -This is a good example of how using a helper function makes things easier.
-Tests:
+    -Can this function be made tail recursive? Why or why not?
+
+    Tests:
     -Empty tree
     -Tree with one item.
     -Long snaking tree that is basically a linked list.

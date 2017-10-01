@@ -10,6 +10,10 @@ Please refer to "28. Implement Strstr" for the problem statement.
 Solution:
     Fairly simple brute force search. For each possible starting point, check to see if the needle completes itself.
     Immediately return the index if it does so. On a mismatch, disregard the remaining characters and try the next index.
+
+    Let N be the length of the haystack, and K be the length of the needle
+    Time Complexity: O(NK)
+    Space Complexity: O(1)
     
 Be Aware:
     -LeetCode Discussion for this problem has a neat Knuth-Morris-Pratt algorithm that is theoretically faster than this solution. In practice, both complete the test cases in around 4 ms.

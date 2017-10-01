@@ -11,6 +11,10 @@ Solution:
     We push open brackets onto it, and pop close brackets off, returning false if we have no open bracket to pop or if it doesnt match
     At the end we check to see if the stack has any remaining open brackets, and if not then we have a valid set!
 
+    Let N be the length of the input string
+    Time Complexity: O(N)
+    Space Complexity: O(N), worst case entire string consists of opening parentheses and the final check of stack emptiness is what determines the answer
+
 Be Aware:
     -Is there any way to make this code prettier? If so, does it give a significant boost?
     -As with all switch statements, don't forget to include your break statements!

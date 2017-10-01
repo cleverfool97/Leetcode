@@ -14,6 +14,10 @@ Solution:
         -Push back a nullptr after the root pointer before diving into the for loop.
         -Don't add any left or right nodes if they are nullptr.
 
+    Let N be the total number of nodes in the tree.
+    Time Complexity: O(N), each node must be visited to be included in the traversal
+    Space Complexity: O(N), complete binary tree with last row filled, right before processing of last level begins there will be N/2 nodes in the queue (each other node added 2 pointers while processing itself)
+
 Alterate Solution:
     Alternatively, you can have two queues, and use the emptying of one queue to signal moving to the next level.
     It is in the comments below, and also passed LeetCode's check. You can see for yourself if you'd like.
@@ -27,7 +31,7 @@ Tests:
     -Empty tree
     -Tree with one item.
     -Any tree with significantly complex branching.
-    -A full tree.
+    -A complete tree.
 */
 /**
 * Definition for a binary tree node.

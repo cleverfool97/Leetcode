@@ -11,6 +11,9 @@ Solution:
     8 once again shifts the predicament back over to you, and so on and so forth.
 
     Thus, all you have to do is check to see if the input is divisible by 4. If it is, then you can't win. Otherwise you're fine!
+
+    Time Complexity: O(1)
+    Space Complexity: O(1)
 */
 
 bool Solution292::canWinNim(int n)

@@ -9,7 +9,9 @@ Please refer to "66. Plus One" for the problem statement.
 
 Solution:
     Initialize a carry to 1 to represent the 1 that we are adding, then propagate that carry through the digits array.
+
     Time Complexity: O(N), where N is the size of the digits vector
+    Space Complexity: O(N), since a copy is made. If the intention is to modify the input array, this can be changed to use O(1) space
 Be Aware:
     -Don't forget to consider that you might need to add a carry, if it remains at the end.
     -There is no push_front function in the C++ vector library.

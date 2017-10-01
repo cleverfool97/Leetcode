@@ -15,6 +15,10 @@ Solution:
         -If the number in the considered spot has its counterpart that sums to the target in the hashmap, return that stored index and the current index as the solution.
         -Otherwise, add the current <number, index> pair to the hashmap and continue iterating.
     Proceed until completed.
+
+    Let N be the size of the input array
+    Time Complexity: O(N^2), one iteration of the for loop, each insertion worst case O(N). However, in practice this will be much closer to O(1)
+    Space Complexity: O(N), assuming a solution pair exists then worst case N - 1 <int, int> pair entries will be added.
 */
 vector<int> Solution001::twoSum(vector<int>& nums, int target)
 {

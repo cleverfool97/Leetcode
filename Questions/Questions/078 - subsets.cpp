@@ -8,16 +8,20 @@ Difficulty: Medium
 Please refer to "78. Subsets" for the problem statement.
 
 Solution:
-    -Backtracking
-    -Each number either exists in a subset or it doesn't. We iterate through the numbers.
+    Backtracking
+    Each number either exists in a subset or it doesn't. We iterate through the numbers.
         -At index i, we have all the subsets generated from 1 to i - 1. These represent half of the subsets in the range 1 to i. 
         -The other half is simply this half, except with the number at index i included in each one.
         -Thus, for each iteration we go back to what we have in the solution and add items appropriately.
-    -Time complexity: O(2^N), where N is the number of items in the input vector. 2^N subsets are generated.
+    
+    Time Complexity: O(2^N), where N is the number of items in the input vector. 2^N subsets are generated.
         -Remember each number stored at the ith index is either in a given subset, or not.
+    Space Complexity: O(2^N), to hold the result
+
 Be aware:
     -These kinds of problems can be intimidating because there are so many outputs to keep track of. Keep a level head and try to find a procedure to generate what you need!
     -Set theory is a very interesting topic in Discrete Mathematics. Knowledge of this topic can help with some of the more mathy coding questions.
+
 Tests:
     []
     [1,2,3,4]
