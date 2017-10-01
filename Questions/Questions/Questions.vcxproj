@@ -238,6 +238,9 @@
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\config.h" />
     <ClInclude Include="001 - twoSum.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\595 - bigCountries.sql" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
