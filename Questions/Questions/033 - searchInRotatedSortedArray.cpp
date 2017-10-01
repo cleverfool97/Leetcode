@@ -14,6 +14,20 @@ Solution:
     Let N be the size of the input array
     Time Complexity: O(logN), two binary searches
     Space Complexity: O(1), solution performed iteratively and not recursively with no additional data structures
+
+Be Aware:
+    -This solution can be coded recursively. If the solution isn't tail recursive, what does this mean for the space complexity once we start considering the call stack?
+    -Why are we applying the modulus operator when setting the mid_rotated?
+
+Tests:
+    Empty Array
+    [7,8,9,1,2,3]
+    [1,2,3,4,5,6]
+    [1]
+    [2,1]
+    [1,2,3,4,5,6,7]
+    [4,5,6,7,1,2,3]
+    [2,3,4,5,6,7,1]
 */
 
 int Solution033::search(vector<int>& nums, int target)
