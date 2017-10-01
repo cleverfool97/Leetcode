@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to "111 - Minimum Depth of Binary Tree" for the problem statement.
+https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
 
 Solution:
     Check at the beginning to see if we were handed an empty tree.

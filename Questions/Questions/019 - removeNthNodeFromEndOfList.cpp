@@ -4,6 +4,7 @@
 /*
 Difficulty: Medium
 Please refer to "19. Remove Nth Node From End of List" for the problem statement
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
 
 Solution:
     In order to find the nth node from the end, we have a scout node go ahead by the input distance.

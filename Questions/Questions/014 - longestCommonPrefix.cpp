@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to "14. Longest Common Prefix" for the problem statement.
+https://leetcode.com/problems/longest-common-prefix/description/
 
 Solution:
     The implemented approach is vertical scanning. That is, we look at every string's first character, then the 2nd, then the 3rd, and so on until we find an index where there is a mismatch.

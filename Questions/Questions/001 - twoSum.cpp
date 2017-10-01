@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to Leetcode's "Two Sum" for the problem statement.
+https://leetcode.com/problems/two-sum/description/
 
 Solution:
     The basic principle is to create a hashMap of ints to ints with a number as a key and its index in the given vector as the value.

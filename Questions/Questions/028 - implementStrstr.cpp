@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to "28. Implement Strstr" for the problem statement.
+https://leetcode.com/problems/implement-strstr/description/
 
 Solution:
     Fairly simple brute force search. For each possible starting point, check to see if the needle completes itself.

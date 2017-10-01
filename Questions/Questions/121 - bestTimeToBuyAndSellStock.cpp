@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to "121. Best Time to Buy and Sell Stock" for the problem statement.
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
 Solution:
     We initially consider the case where we buy on the first day and sell on the very next day.

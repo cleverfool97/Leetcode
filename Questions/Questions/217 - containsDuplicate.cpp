@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to "217. Contains Duplicate" for the problem statement.
+https://leetcode.com/problems/contains-duplicate/description/
 
 Solution:
     We initialize a set and begin iterating through the array of numbers.

@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Medium
 Please refer to "3. Longest Substring Without Repeating Characters" for the problem statement.
+https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 
 Solution:
     You can obviously brute force it by calculating everything, but this will take too much time.

@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Medium
 Please refer to "238. Product of Array Except Self" for the problem statement.
+https://leetcode.com/problems/product-of-array-except-self/description/
 
 Solution:
     Keep an aggregate product going forwards, and an aggregate product going backwards, and update each array spot by multiplying by this aggregate product.

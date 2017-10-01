@@ -4,6 +4,7 @@
 /*
 Difficulty: Easy
 Please refer to "191. Number of 1 Bits" for the problem statement.
+https://leetcode.com/problems/number-of-1-bits/description/
 
 Solution:
     So long as our input is nonzero, we know that there is still a 1 bit to be counted, so we continually check the least significant bit and rightshift it away, maintaining a count of 1's that we encounter.

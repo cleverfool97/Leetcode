@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Medium
 Please refer to "153. Find Minimum in Rotated Sorted Array" for the problem statement.
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 
 Solution:
     Initially we check to make sure that there in fact is a rotation.

@@ -4,6 +4,7 @@
 /*
 Difficulty: Easy
 Please refer to "101. Symmetric Tree" for the problem statement.
+https://leetcode.com/problems/symmetric-tree/description/
 
 Solution: 
     We simply take note of the fact that if we begin at the root and split down the middle, after the root's children

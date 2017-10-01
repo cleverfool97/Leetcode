@@ -3,6 +3,7 @@
 /*
 Difficulty: Easy
 Please refer to "237. Delete Node in a Linked List" for the problem statement.
+https://leetcode.com/problems/delete-node-in-a-linked-list/description/
 
 Solution:
     This is slightly less traditional in that normally you are given a predecessor to the node to be deleted.

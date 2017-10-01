@@ -4,6 +4,7 @@
 /*
 Difficulty: Easy
 Please refer to "226. Invert Binary Tree" for the problem statement.
+https://leetcode.com/problems/invert-binary-tree/description/
 
 Solution:
     The key is to observe how an inverted binary tree looks like and realize that you can achieve inversion by switching each node's left and right pointers

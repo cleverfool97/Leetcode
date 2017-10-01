@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to "136. Single Number" for the problem statement.
+https://leetcode.com/problems/single-number/description/
 
 Solution:
     There are many ways to solve this problem, which may be added later on as alternate solutions.

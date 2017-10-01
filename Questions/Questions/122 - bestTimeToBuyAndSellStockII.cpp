@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to "122. Best Time to Buy and Sell Stock II" for the problem statement.
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 
 Solution:
     Because this time there is no limit to the number of times the stock can be purchased and sold, we simply add all the days where we can make a profit by buying that day and selling the next.

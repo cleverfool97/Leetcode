@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to "70. Climbing Stairs" for the problem statement.
+https://leetcode.com/problems/climbing-stairs/description/
 
 Solution:
     This is a classic dynamic programming problem. For any stair number i, we arrived there with 1 step from the step below, or with 2 steps from 2 below.

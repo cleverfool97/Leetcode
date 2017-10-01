@@ -4,6 +4,7 @@
 /*
 Difficulty: Medium
 Please refer to Leetcode's "2. Add Two Numbers" for the problem statement.
+https://leetcode.com/problems/add-two-numbers/description/
 
 Solution:
     It is just a matter of keeping track of where you are at each linked list and performing additions on the digits, propagating a carry along (in case the sum of the digits exceeds 10).

@@ -2,7 +2,9 @@
 #include "config.h"
 
 /*
+Difficulty: Medium
 Please refer to "143. Reorder List" for the problem statement.
+https://leetcode.com/problems/reorder-list/description/
 
 Solution:
     Iterate halfway through the list, reverse the second half, and then perform an alternating merge.

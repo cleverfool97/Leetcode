@@ -4,6 +4,7 @@
 /*
 Difficulty: Easy
 Please refer to "292. Nim Game" for the problem statement.
+https://leetcode.com/problems/nim-game/description/
 
 Solution:
     The key is to leverage the hint that they give you: if you start with a 4, then no matter what you do you will lose since you have to go first.

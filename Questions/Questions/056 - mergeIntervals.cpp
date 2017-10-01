@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Medium
 Please refer to "56. Merge Intervals" for the problem statement.
+https://leetcode.com/problems/merge-intervals/description/
 
 Solution:
     We sort the interval vector by increasing start time.

@@ -4,6 +4,7 @@
 /*
 Difficulty: Medium
 Please refer to "114. Flatten Binary Tree to Linked List" for the problem statement.
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/
 
 Solution:
     This problem can be solved iteratively.

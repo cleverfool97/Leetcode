@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to "169. Majority Element" for the problem statement.
+https://leetcode.com/problems/majority-element/description/
 
 Solution:
     Since we know there is a majority element, we can match each appearance of such an element with one that is not and cancel them out.

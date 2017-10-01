@@ -3,6 +3,7 @@
 /*
 Difficulty: Easy
 Please refer to "328. Odd Even Linked List" for the problem statement.
+https://leetcode.com/problems/odd-even-linked-list/description/
 
 Solution:
     Initialize two pointers, one to the head to represent the beginning of the odd list, one to head's next if it exists to represent the beginning of the even list.

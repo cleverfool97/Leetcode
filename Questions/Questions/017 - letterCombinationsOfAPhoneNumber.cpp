@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Medium
 Please refer to "17. Letter Combinations of a Phone Number" for the problem statement.
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
 Credit to LeetCode user asbear for this solution + explanation, found here:
 https://discuss.leetcode.com/topic/17262/iterative-c-solution-in-0ms
 

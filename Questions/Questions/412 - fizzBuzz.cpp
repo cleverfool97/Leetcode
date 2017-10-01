@@ -5,7 +5,8 @@ using namespace std;
 
 /*
 Difficulty: Easy
-Please refer to "412. Fizz Buzz" for the problem statement
+Please refer to "412. Fizz Buzz" for the problem statement.
+https://leetcode.com/problems/fizz-buzz/description/
 
 Solution: 
     This is a very basic algorithm. Just loop through from 1 up until n and examine the number, adding the appropriate string to your result as you go.

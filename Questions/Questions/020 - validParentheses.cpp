@@ -4,6 +4,7 @@
 /*
 Difficulty: Easy
 Please refer to "20. Valid Parentheses" for the problem statement.
+https://leetcode.com/problems/valid-parentheses/description/
 
 Solution:
     Every time we encounter an opening character, we know that its closing match must be next. 

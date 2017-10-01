@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Medium
 Please refer to "55. Jump Game" for the problem statement.
+https://leetcode.com/problems/jump-game/description/
 
 Solution:
     Utilize a greedy approach. Begin at the start, initialize the max index you can reach from the start, and iterate through the array.

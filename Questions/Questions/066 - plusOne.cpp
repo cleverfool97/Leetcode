@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to "66. Plus One" for the problem statement.
+https://leetcode.com/problems/plus-one/description/
 
 Solution:
     Initialize a carry to 1 to represent the 1 that we are adding, then propagate that carry through the digits array.

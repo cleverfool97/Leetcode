@@ -4,6 +4,7 @@
 /*
 Difficulty: Easy
 Please refer to "100. Same Tree" for the problem statement.
+https://leetcode.com/problems/same-tree/description/
 
 Solution:
     If both pointers are nullptr, then it is true as a base case.

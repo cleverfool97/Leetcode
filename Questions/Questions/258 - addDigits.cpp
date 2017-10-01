@@ -4,6 +4,7 @@
 /*
 Difficulty: Easy
 Please refer to "258. Add Digits" for the problem statement.
+https://leetcode.com/problems/add-digits/description/
 Note: This code displayed here utilizes the mathematical concept of a digital root to implement the solution without recursion in O(1) runtime.
 In an actual interview, knowing the recursive way is enough. Credit to LeetCode user zhiqing_xiao for noting this approach in the Discussion section for the question!
 

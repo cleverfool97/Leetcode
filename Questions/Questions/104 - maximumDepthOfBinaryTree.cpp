@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to "104. Maximum Depth of Binary Tree" for the problem statement.
+https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 
 Solution:
     This solution takes a recursive approach to finding the result. 

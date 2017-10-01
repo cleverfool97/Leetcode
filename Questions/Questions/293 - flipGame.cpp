@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Easy
 Please refer to "293. Flip Game" for the problem statement. Note that this problem is available for premium Leetcode users only.
+https://leetcode.com/problems/flip-game/description/
 
 Solution:
     Simply iterate through the string, and at any point there are consecutive '+' symbols change the pair to '-' and add that representation to the result.

@@ -4,6 +4,7 @@
 /*
 Difficulty: Medium
 Please refer to "86. Partition List" for the problem statement.
+https://leetcode.com/problems/partition-list/description/
 
 Solution:
     Simply have two linked lists, one representing the early half and one representing the later half, and iterate once through the linked list and assign each node in order.
