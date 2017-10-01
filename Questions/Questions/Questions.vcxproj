@@ -169,6 +169,7 @@
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\206 - reverseLinkedList.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\217 - containsDuplicate.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\226 - invertBinaryTree.cpp" />
+    <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\234 - palindromeLinkedList.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\237 - deleteNodeInALinkedList.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\238 - productOfArrayExceptSelf.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\258 - addDigits.cpp" />
@@ -216,6 +217,7 @@
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\206 - reverseLinkedList.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\217 - containsDuplicate.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\226 - invertBinaryTree.h" />
+    <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\234 - palindromeLinkedList.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\237 - deleteNodeInALinkedList.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\238 - productOfArrayExceptSelf.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\258 - addDigits.h" />

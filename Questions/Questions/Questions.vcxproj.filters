@@ -150,6 +150,9 @@
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\206 - reverseLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\234 - palindromeLinkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="001 - twoSum.h">
@@ -285,6 +288,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\206 - reverseLinkedList.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\234 - palindromeLinkedList.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
