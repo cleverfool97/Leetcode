@@ -6,7 +6,6 @@ using namespace std;
 /*
 Difficulty: Medium
 Please refer to "75. Sort Colors" for the problem statement.
-Please refer to "153. Find Minimuim in Rotated Sorted Array" for more information on the algorithm to find the minimum in a rotated sorted array.
 
 Solution:
     Instead of actually sorting, because there are so few different kinds of elements in the data set, we just keep a count of each one and then add them in via simple loops afterwards.

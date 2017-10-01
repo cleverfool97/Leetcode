@@ -6,6 +6,7 @@ using namespace std;
 /*
 Difficulty: Medium
 Please refer to "33. Search in Rotated Sorted Array" for the problem statement.
+Please refer to "153. Find Minimuim in Rotated Sorted Array" for more information on the algorithm to find the minimum in a rotated sorted array.
 
 Solution:
     Perform a binary search for the location that the array was rotated to, then treat the array as if it was a normal one by doing a normal binary search accounting for the offset.
