@@ -58,6 +58,7 @@
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\074 - searchA2DMatrix.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\098 - validateBinarySearchTree.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\144 - binaryTreePreorderTraversal.cpp" />
+    <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\125 - validPalindrome.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\002 - addTwoNumbers.h" />
@@ -117,6 +118,7 @@
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\074 - searchA2DMatrix.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\098 - validateBinarySearchTree.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\144 - binaryTreePreorderTraversal.h" />
+    <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\125 - validPalindrome.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\595 - bigCountries.sql" />
