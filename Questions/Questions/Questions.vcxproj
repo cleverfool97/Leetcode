@@ -170,6 +170,7 @@
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\121 - bestTimeToBuyAndSellStock.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\122 - bestTimeToBuyAndSellStockII.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\125 - validPalindrome.cpp" />
+    <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\129 - sumRootToLeafNumbers.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\144 - binaryTreePreorderTraversal.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\153 - findMinimumInRotatedSortedArray.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\169 - majorityElement.cpp" />
@@ -230,6 +231,7 @@
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\121 - bestTimeToBuyAndSellStock.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\122 - bestTimeToBuyAndSellStockII.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\125 - validPalindrome.h" />
+    <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\129 - sumRootToLeafNumbers.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\144 - binaryTreePreorderTraversal.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\153 - findMinimumInRotatedSortedArray.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\169 - majorityElement.h" />
