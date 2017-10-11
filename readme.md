@@ -13,6 +13,7 @@ As of the creation of this document there are 39 Easy, 30 Medium, and 6 Hards fo
 
 
 ## Navigation
+All solution files can be found in the Questions/Question subfolder.
 
 Navigation is intended to be as straightforward as possible, both to make things easy to find and make it easier for me to add new solutions.
 Every question is marked by the number assigned to it on leetcode.com, with most relevant information contained inside the .cpp files.
