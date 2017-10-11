@@ -3,7 +3,7 @@
 /*
 Difficulty: Easy
 Please refer to "617. Merge Two Binary Trees" for the problem statement.
-https://leetcode.com/submissions/detail/122475871/
+https://leetcode.com/problems/merge-two-binary-trees/description/
 
 Solution:
     We perform a traversal through both trees. If both exist then we just merge them as specified.
