@@ -29,3 +29,8 @@ Each .cpp file, in addition to the solution to the problem, contains a comment h
 	* Comments of structures provided for the problem, implemented in the .h files and provided by default by Leetcode when completing the problem
 
 Good luck getting those job offers!! :)
+
+## Contact
+
+James Wang
+You can contact me at jameswang97 at ucla.edu (prevent spambots).
