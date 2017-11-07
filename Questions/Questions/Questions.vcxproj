@@ -154,6 +154,7 @@
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\019 - removeNthNodeFromEndOfList.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\020 - validParentheses.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\021 - mergeTwoSortedLists.cpp" />
+    <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\022 - generateParentheses.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\023 - mergeKSortedLists.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\028 - implementStrstr.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\033 - searchInRotatedSortedArray.cpp" />
@@ -195,6 +196,7 @@
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\236 - lowestCommonAncestorOfABinaryTree.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\237 - deleteNodeInALinkedList.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\238 - productOfArrayExceptSelf.cpp" />
+    <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\242 - validAnagram.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\257 - binaryTreePaths.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\258 - addDigits.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\278 - firstBadVersion.cpp" />
@@ -203,6 +205,7 @@
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\461 - hammingDistancecpp.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\540 - singleElementInASortedArray.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\617 - mergeTwoBinaryTrees.cpp" />
+    <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\657 - judgeRouteCircle.cpp" />
     <ClCompile Include="198 - houseRobber.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\111 - minimumDepthOfBinaryTree.cpp" />
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\112 - pathSum.cpp" />
@@ -231,6 +234,7 @@
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\019 - removeNthNodeFromEndOfList.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\020 - validParentheses.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\021 - mergeTwoSortedLists.h" />
+    <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\022 - generateParentheses.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\023 - mergeKSortedLists.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\028 - implementStrstr.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\033 - searchInRotatedSortedArray.h" />
@@ -272,6 +276,7 @@
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\236 - lowestCommonAncestorOfABinaryTree.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\237 - deleteNodeInALinkedList.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\238 - productOfArrayExceptSelf.h" />
+    <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\242 - validAnagram.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\257 - binaryTreePaths.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\258 - addDigits.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\278 - firstBadVersion.h" />
@@ -280,6 +285,7 @@
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\461 - hammingDistance.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\540 - singleElementInASortedArray.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\617 - mergeTwoBinaryTrees.h" />
+    <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\657 - judgeRouteCircle.h" />
     <ClInclude Include="198 - houseRobber.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\111 - minimumDepthOfBinaryTree.h" />
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\112 - pathSum.h" />

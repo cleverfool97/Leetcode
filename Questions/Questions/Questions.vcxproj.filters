@@ -240,6 +240,15 @@
     <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\540 - singleElementInASortedArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\022 - generateParentheses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\657 - judgeRouteCircle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\242 - validAnagram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="001 - twoSum.h">
@@ -465,6 +474,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\540 - singleElementInASortedArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\022 - generateParentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\657 - judgeRouteCircle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\James%27s Stuff\Repos\Leetcode\Questions\Questions\242 - validAnagram.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
