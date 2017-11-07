@@ -32,5 +32,4 @@ Good luck getting those job offers!! :)
 
 ## Contact
 
-James Wang
-You can contact me at jameswang97 at ucla.edu (prevent spambots).
+James Wang - You can contact me at jameswang97 at ucla.edu (formatted to prevent spambots).
