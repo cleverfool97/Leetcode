@@ -13,7 +13,7 @@ Solution:
     Let N be the total number of elements we have across all lists.
 
     Our solution is to use a minheap that keeps pointers to non-nullptr nodes sorted in ascending order by the value stored within said nodes.
-    Thus, in order to access the next smallest item when building our merged list, it will only cost O(1) time to access, and then O(k) to handle adding the next node and removing the one just considered.
+    Thus, in order to access the next smallest item when building our merged list, it will only cost O(1) time to access, and then O(logk) to handle adding the next node and removing the one just considered.
     Because we are building a merged list, we will need to visit each node one time, so each node will be a part of this minheap at some point (it needs to be the next item in order to be merged in).
     Thus...
 
