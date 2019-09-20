@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Leetcode Source Files">
+      <UniqueIdentifier>{5b29fdbf-e9a9-47bc-b815-4b6669c507c3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SolutionNavigator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\001 - twoSum.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\002 - addTwoNumbers.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\003 - longestSubstringWithoutRepeatingCharacters.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\014 - longestCommonPrefix.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\017 - letterCombinationsOfAPhoneNumber.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\019 - removeNthNodeFromEndOfList.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\020 - validParentheses.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\021 - mergeTwoSortedLists.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\022 - generateParentheses.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\023 - mergeKSortedLists.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\028 - implementStrstr.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\033 - searchInRotatedSortedArray.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\036 - validSudoku.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\041 - firstMissingPositive.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\045 - jumpGameII.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\049 - groupAnagrams.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\054 - spiralMatrix.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\055 - jumpGame.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\056 - mergeIntervals.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\057 - insertInterval.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\066 - plusOne.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\070 - climbingStairs.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\074 - searchA2DMatrix.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\075 - sortColors.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\078 - subsets.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\086 - partitionList.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\098 - validateBinarySearchTree.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\100 - sameTree.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\101 - symmetricTree.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\102 - binaryTreeLevelOrderTraversal.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\104 - maximumDepthOfBinaryTree.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\111 - minimumDepthOfBinaryTree.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\112 - pathSum.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\113 - pathSumII.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\114 - flattenBinaryTreeToLinkedList.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\121 - bestTimeToBuyAndSellStock.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\122 - bestTimeToBuyAndSellStockII.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\124 - binaryTreeMaximumPathSum.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\125 - validPalindrome.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\129 - sumRootToLeafNumbers.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\136 - singleNumber.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\137 - singleNumberII.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\141 - linkedListCycle.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\142 - linkedListCycleII.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\143 - reorderList.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\144 - binaryTreePreorderTraversal.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\145 - binaryTreePostOrderTraversal.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\153 - findMinimumInRotatedSortedArray.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\155 - minStack.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\162 - findPeakElement.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\169 - majorityElement.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\172 - factorialTrailingZeroes.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\191 - numberOfOneBits.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\198 - houseRobber.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\200 - numberOfIslands.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\202 - happyNumber.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\206 - reverseLinkedList.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\215 - kthLargestElementInAnArray.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\217 - containsDuplicate.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\226 - invertBinaryTree.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\234 - palindromeLinkedList.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\235 - lowestCommonAncestorOfABinarySearchTree.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\236 - lowestCommonAncestorOfABinaryTree.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\237 - deleteNodeInALinkedList.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\238 - productOfArrayExceptSelf.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\242 - validAnagram.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\257 - binaryTreePaths.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\258 - addDigits.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\278 - firstBadVersion.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\292 - nimGame.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\293 - flipGame.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\300 - longestIncreasingSubsequence.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\328 - oddEvenLinkedList.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\344 - reverseString.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\412 - fizzBuzz.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\419 - battleshipsInABoard.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\461 - hammingDistancecpp.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\540 - singleElementInASortedArray.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\617 - mergeTwoBinaryTrees.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leetcode Source Files\657 - judgeRouteCircle.cpp">
+      <Filter>Leetcode Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header Files\001 - twoSum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\002 - addTwoNumbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\003 - longestSubstringWithoutRepeatingCharacters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\014 - longestCommonPrefix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\017 - letterCombinationsOfAPhoneNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\019 - removeNthNodeFromEndOfList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\020 - validParentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\021 - mergeTwoSortedLists.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\022 - generateParentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\023 - mergeKSortedLists.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\028 - implementStrstr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\033 - searchInRotatedSortedArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\036 - validSudoku.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\041 - firstMissingPositive.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\045 - jumpGameII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\049 - groupAnagrams.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\054 - spiralMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\055 - jumpGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\056 - mergeIntervals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\057 - insertInterval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\066 - plusOne.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\070 - climbingStairs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\074 - searchA2DMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\075 - sortColors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\078 - subsets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\086 - partitionList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\098 - validateBinarySearchTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\100 - sameTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\101 - symmetricTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\102 - binaryTreeLevelOrderTraversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\104 - maximumDepthOfBinaryTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\111 - minimumDepthOfBinaryTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\112 - pathSum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\113 - pathSumII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\114 - flattenBinaryTreeToLinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\121 - bestTimeToBuyAndSellStock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\122 - bestTimeToBuyAndSellStockII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\124 - binaryTreeMaximumPathSum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\125 - validPalindrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\129 - sumRootToLeafNumbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\136 - singleNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\137 - singleNumberII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\141 - linkedListCycle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\142 - linkedListCycleII.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\143 - reorderList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\144 - binaryTreePreorderTraversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\145 - binaryTreePostorderTraversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\153 - findMinimumInRotatedSortedArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\155 - minStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\162 - findPeakElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\169 - majorityElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\172 - factorialTrailingZeroes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\191 - numberOfOneBits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\198 - houseRobber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\200 - numberOfIslands.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\202 - happyNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\206 - reverseLinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\215 - kthLargestElementInAnArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\217 - containsDuplicate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\226 - invertBinaryTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\234 - palindromeLinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\235 - lowestCommonAncestorOfABinarySearchTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\236 - lowestCommonAncestorOfABinaryTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\237 - deleteNodeInALinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\238 - productOfArrayExceptSelf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\242 - validAnagram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\257 - binaryTreePaths.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\258 - addDigits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\278 - firstBadVersion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\292 - nimGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\293 - flipGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\300 - longestIncreasingSubsequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\328 - oddEvenLinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\344 - reverseString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\412 - fizzBuzz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\419 - battleshipsInABoard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\461 - hammingDistance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\540 - singleElementInASortedArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\617 - mergeTwoBinaryTrees.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\657 - judgeRouteCircle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
